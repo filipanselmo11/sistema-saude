@@ -3,9 +3,6 @@
       <h1 class="display-4">
           Sistema Descentralizado de Saúde
       </h1>
-      <p class="lead">
-          Esta é uma aplicação descentralizada, que integra duas aplicações desenvolvidas com a tecnologia Blockchain.
-      </p>
   </div>
 </template>
 
