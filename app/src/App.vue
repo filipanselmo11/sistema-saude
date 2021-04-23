@@ -1,8 +1,8 @@
 <template>
-  <vue-page-transition class="page" id="app">
-    <router-view/>
+  <div id="app">
+    <router-view />
     <div class="d-flex justify-content-center">
-      <div 
+      <div
         class="spinner-border"
         style="
           width: 10rem;
@@ -11,9 +11,10 @@
           top: 40%;
           left: 45%;
         "
-        role="status"></div>
+        role="status"
+      ></div>
     </div>
-  </vue-page-transition>
+  </div>
 </template>
 
 <style>
