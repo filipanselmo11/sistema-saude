@@ -3,7 +3,7 @@
     <router-view />
     <div class="d-flex justify-content-center">
       <div
-        class="spinner-border"
+        class="zoom spinner-border"
         style="
           width: 10rem;
           height: 10rem;
@@ -23,5 +23,8 @@ body {
   background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;
+}
+.zoom {
+  zoom: 100%;
 }
 </style>
