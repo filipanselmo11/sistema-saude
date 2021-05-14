@@ -1,6 +1,6 @@
 {
     "name": "sistema-saude-dapp",
-    "version": 1,
+    "version": 2,
     "builds": [{
         "src": "package.json",
         "use": "@vercel/static-build"
